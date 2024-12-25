@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(255, 108, 127);
+    font-family: 'DejaVu Sans', Verdana, sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#even {
+    color: #00f;
+    font-size: 36px;
+}
+
+#steven {
+    background-color: #90ee90;
+    font-weight: bold;
+}
